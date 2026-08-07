@@ -1,0 +1,10 @@
+VERSION = 1,
+
+option LivingBooks.SpawnChance
+{
+	type = enum,
+	default = 3,
+	numValues = 7,
+	page = LivingBooksPage,
+	translation = SpawnChance,
+}

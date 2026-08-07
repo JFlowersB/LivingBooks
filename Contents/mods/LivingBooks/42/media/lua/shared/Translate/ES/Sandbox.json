@@ -1,0 +1,12 @@
+{
+	"Sandbox_LivingBooksPage": "Living Books",
+	"Sandbox_SpawnChance": "Probabilidad de aparición del libro/s",
+	"Sandbox_SpawnChance_tooltip": "Solo aparece junto a libros no esenciales, por lo que no interfiere con el gameplay del juego base.\n(Por ejemplo, Libros de Habilidad y Revistas de Habilidad).",
+	"Sandbox_SpawnChance_option1": "Nunca",
+	"Sandbox_SpawnChance_option2": "Casi nunca",
+	"Sandbox_SpawnChance_option3": "Extremadamente raro (Recomendado)",
+	"Sandbox_SpawnChance_option4": "Raro",
+	"Sandbox_SpawnChance_option5": "Normal",
+	"Sandbox_SpawnChance_option6": "Común",
+	"Sandbox_SpawnChance_option7": "Abundante"
+}
