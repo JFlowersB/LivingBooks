@@ -31,6 +31,7 @@ The latest version can be found in the repository's **Releases** section.
 [Book Submission](https://tally.so/r/68YyrJ)
 
 [Ko-fi](https://ko-fi.com/flowers1984)
+
 <br>
 ---
 
