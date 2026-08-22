@@ -17,7 +17,6 @@ Living Books provides the systems needed to bring long-form written content into
 **LivingBooksTool** is the companion tool for creating books compatible with Living Books.
 
 It handles the required file generation and structure, making it possible to create a book without having to build everything manually.
-
 The latest version can be found in the repository's **Releases** section.
 
 <br>
