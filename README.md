@@ -33,6 +33,7 @@ The latest version can be found in the repository's **Releases** section.
 [Ko-fi](https://ko-fi.com/flowers1984)
 
 <br>
+
 ---
 
 *Built for Project Zomboid B42*
