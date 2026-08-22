@@ -1,5 +1,6 @@
 <div align="center">
 # Living Books
+  
 **A framework for fully readable books in Project Zomboid.**
 Stories, journals, manuals, and anything else you want to put on a page.
 
