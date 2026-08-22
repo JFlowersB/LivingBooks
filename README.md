@@ -47,11 +47,25 @@ with no manual setup required.
 
 ---
 
-## Links
+## 🔗 Links
 
-[Book Submission](https://tally.so/r/68YyrJ)
+### 📚 Join the Collection
 
-[Ko-fi](https://ko-fi.com/flowers1984)
+Have a book you'd like to see included in **Living Books**?
+
+Submit it through the form below to have it considered for the collection.
+
+**[📖 Submit a Book](https://tally.so/r/68YyrJ)**
+
+<br>
+
+### ☕ Support the Project
+
+If you enjoy Living Books and would like to support its development, you can help through Ko-fi.
+
+Every bit of support helps keep the project going.
+
+**[☕ Donate via Ko-fi](https://ko-fi.com/flowers1984)**
 
 <br>
 
@@ -60,11 +74,3 @@ with no manual setup required.
     <img src="https://files.catbox.moe/4weqi9.png" width="600">
   </a>
 </p>
-
-<br>
-
----
-
-*Built for Project Zomboid B42*
-
-</div>
