@@ -22,8 +22,6 @@ The latest version can be found in the repository's [**Releases**](../../release
 
 <br>
 
----
-
 ## Features
 
 ### EPUB to JSON
@@ -36,8 +34,6 @@ A complete editor for modifying and refining generated JSON files, with an optio
 Automatically generate the required Project Zomboid mod structure and files from your book, with no manual setup required.
 
 <br>
-
----
 
 <p align="center">
   <img src="https://files.catbox.moe/mmk178.png" width="45%">
