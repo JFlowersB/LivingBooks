@@ -1,0 +1,9 @@
+name=Living Books: Template Mod
+id=LivingBooksTemplateMod
+author=Miguel de Cervantes
+description=Mod Template Description
+poster=poster.png
+icon=icon.png
+modversion=1.0.0
+require=LivingBooksFramework
+versionmin=42

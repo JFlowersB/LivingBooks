@@ -1,0 +1,80 @@
+module Base
+{
+	sound LivingBooksGrabBook
+	{
+		category = UI,
+		is3D = false,
+		loop = false,
+		clip
+		{
+			file = media/sound/LivingBooksGrabBook.ogg,
+			distanceMax = 0,
+			volume = 0.85,
+		}
+	}
+
+	sound LivingBooksPlaceBook
+	{
+		category = UI,
+		is3D = false,
+		loop = false,
+		clip
+		{
+			file = media/sound/LivingBooksPlaceBook.ogg,
+			distanceMax = 0,
+			volume = 0.8,
+		}
+	}
+
+	sound LivingBooksNextPage
+	{
+		category = UI,
+		is3D = false,
+		loop = false,
+		clip
+		{
+			file = media/sound/LivingBooksNextPage.ogg,
+			distanceMax = 0,
+			volume = 0.9,
+		}
+	}
+
+	sound LivingBooksGoToPage
+	{
+		category = UI,
+		is3D = false,
+		loop = false,
+		clip
+		{
+			file = media/sound/LivingBooksGoToPage.ogg,
+			distanceMax = 0,
+			volume = 0.8,
+		}
+	}
+
+	sound LivingBooksOpenBook
+	{
+		category = UI,
+		is3D = false,
+		loop = false,
+		clip
+		{
+			file = media/sound/LivingBooksOpenBook.ogg,
+			distanceMax = 0,
+			volume = 0.8,
+		}
+	}
+
+	sound LivingBooksCloseBook
+	{
+		category = UI,
+		is3D = false,
+		loop = false,
+		clip
+		{
+			file = media/sound/LivingBooksCloseBook.ogg,
+			distanceMax = 0,
+			volume = 0.8,
+		}
+	}
+}

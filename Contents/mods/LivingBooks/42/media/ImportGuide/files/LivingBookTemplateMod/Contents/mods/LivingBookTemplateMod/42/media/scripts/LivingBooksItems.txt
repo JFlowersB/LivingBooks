@@ -1,0 +1,15 @@
+module LivingBooks
+{
+	item ExampleBook
+	{
+		DisplayName = The Example Book,
+		DisplayCategory = Literature,
+		ItemType = base:normal,
+		Weight = 1.0,
+		Icon = Book_OldFancy,
+		CanBeWrite = false,
+		StaticModel = BookFancy_Hand,
+		WorldStaticModel = BookFancyClosed,
+		Tags = base:fancybook,
+	}
+}

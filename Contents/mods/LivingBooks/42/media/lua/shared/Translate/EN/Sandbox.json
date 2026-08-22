@@ -1,0 +1,12 @@
+{
+	"Sandbox_LivingBooksPage": "Living Books",
+	"Sandbox_SpawnChance": "Book/s Spawn Chance",
+	"Sandbox_SpawnChance_tooltip": "It only spawns alongside non-essential books, so it doesn't interfere with the base game's gameplay\n(e.g., Skill Books and Skill Magazines).",
+	"Sandbox_SpawnChance_option1": "Never",
+	"Sandbox_SpawnChance_option2": "Insane",
+	"Sandbox_SpawnChance_option3": "Extremely Rare (Recommended)",
+	"Sandbox_SpawnChance_option4": "Rare",
+	"Sandbox_SpawnChance_option5": "Normal",
+	"Sandbox_SpawnChance_option6": "Common",
+	"Sandbox_SpawnChance_option7": "Abundant"
+}
