@@ -22,16 +22,19 @@ The latest version can be found in the repository's [**Releases**](../../release
 
 <br>
 
-## Features
+## ✨Features
 
 ### EPUB to JSON
-Convert EPUB books directly into Living Books-compatible JSON, with optional text corrections and normalization.
+Convert EPUB books directly into Living Books-compatible JSON,
+with optional text corrections and normalization.
 
 ### Full JSON Editor
-A complete editor for modifying and refining generated JSON files, with an optional **Plain Text** view for easier editing.
+A complete editor for modifying and refining generated JSON files,
+with an optional **Plain Text** view for easier editing.
 
 ### Automated Mod Creator
-Automatically generate the required Project Zomboid mod structure and files from your book, with no manual setup required.
+Automatically generate the required Project Zomboid mod structure and files from your book,
+with no manual setup required.
 
 <br>
 
