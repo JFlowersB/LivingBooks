@@ -22,6 +22,13 @@ The latest version can be found in the repository's [**Releases**](../../release
 
 <br>
 
+<p align="center">
+  <img src="https://files.catbox.moe/mmk178.png" width="45%">
+  <img src="https://files.catbox.moe/yoqnka.png" width="45%">
+</p>
+
+<br>
+
 ---
 
 ## Links
