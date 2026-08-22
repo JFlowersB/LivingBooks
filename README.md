@@ -1,30 +1,36 @@
 # Living Books
 
-A framework for adding fully readable books to **Project Zomboid**.
+<p align="center">
+  <b>A framework for fully readable books in Project Zomboid.</b><br>
+  Stories, journals, manuals and anything else you want to put on a page.
+</p>
 
-Living Books handles the book system itself — loading, chapters, pagination, search and reading progress — while keeping the book data lightweight.
+<br>
+
+Living Books provides the systems needed to bring long-form written content into Project Zomboid, including chapters, pagination, search and reading progress.
 
 ## LivingBooksTool
 
-**LivingBooksTool** is the companion tool for creating books for Living Books.
+**LivingBooksTool** is the companion tool for creating books compatible with Living Books.
 
-It takes care of generating the files and structure required by the mod, so you don't have to build everything manually.
+It handles the required file generation and structure, making it possible to create a book without having to manually build everything from scratch.
 
-**[Download LivingBooksTool](../../releases)**
+The latest version is available in the repository's **Releases**.
 
 ## Project
 
 * **Game:** Project Zomboid
 * **Framework:** Living Books
-* **Tool:** LivingBooksTool
 * **Status:** In development
 
 ## Links
 
-* [Releases](../../releases)
-* [Issues](../../issues)
-* [Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3549484875)
+[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3549484875)
+[Submission Forum](https://steamcommunity.com/workshop/filedetails/discussion/3768770868/585056462065332719/)
+[Ko-fi](https://ko-fi.com/flowers1984)
 
----
+<br>
 
-*Create books. Put them in the world. Read them.*
+<p align="center">
+  <i>Built for Project Zomboid. Made for stories.</i>
+</p>
