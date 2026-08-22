@@ -12,7 +12,7 @@ Living Books provides the systems needed to bring long-form written content into
 
 ---
 
-## LivingBooksTool
+## 🛠️LivingBooksTool
 
 **LivingBooksTool** is the companion tool for creating books compatible with Living Books.
 
