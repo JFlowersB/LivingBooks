@@ -7,7 +7,6 @@
 Stories, journals, manuals, and anything else you want to put on a page.
 
 <br>
-
 Living Books provides the systems needed to bring long-form written content into Project Zomboid, including chapters, pagination, search, and reading progress.
 
 <br>
