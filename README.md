@@ -33,8 +33,6 @@ The latest version can be found in the repository's [**Releases**](../../release
 
 ## Links
 
-[Steam Workshop](https://steamcommunity.com/sharedfiles/filedetails/?id=3549484875)
-
 [Book Submission](https://tally.so/r/68YyrJ)
 
 [Ko-fi](https://ko-fi.com/flowers1984)
@@ -43,7 +41,7 @@ The latest version can be found in the repository's [**Releases**](../../release
 
 <p align="center">
   <a href="https://steamcommunity.com/sharedfiles/filedetails/?id=3549484875">
-    <img src="https://files.catbox.moe/by0otn.png" width="600">
+    <img src="https://files.catbox.moe/4weqi9.png" width="600">
   </a>
 </p>
 
