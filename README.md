@@ -6,7 +6,7 @@
 
 Stories, novels, journals, manuals, diaries, chronicles, survivor records, and forgotten writings.
 
-Living Books provides the systems needed to bring long-form written content into Project Zomboid, including chapters, pagination, search, and reading progress.
+Living Books provides the systems needed to bring long-form written content into Project Zomboid, including chapters, pagination, search, reading progress, and image support.
 
 <br>
 
@@ -18,6 +18,8 @@ Living Books provides the systems needed to bring long-form written content into
 
 It handles the required file generation and structure, making it possible to create a book without having to build everything manually.
 
+It also provides tools for working with images inside your books. You can **import images directly from books, edit them, remove their backgrounds, add captions, and much more**, giving you greater control over how illustrated books are presented in-game.
+
 The latest version can be found in the repository's [**Releases**](../../releases) section.
 
 <br>
@@ -25,14 +27,22 @@ The latest version can be found in the repository's [**Releases**](../../release
 ## ✨Features
 
 ### EPUB to JSON
+
 Convert EPUB books directly into Living Books-compatible JSON,<br>
 with optional text corrections and normalization.
 
+### Image Import & Editing
+
+Import images from books and edit them directly through **LivingBooksTool**.<br>
+Remove backgrounds, add captions, customize images, and much more.
+
 ### Full JSON Editor
+
 A complete editor for modifying and refining generated JSON files,<br>
 with an optional **Plain Text** view for easier editing.
 
 ### Automated Mod Creator
+
 Automatically generate the required Project Zomboid mod structure and files from your book,<br>
 with no manual setup required.
 
