@@ -49,8 +49,13 @@ with no manual setup required.
 <br>
 
 <p align="center">
-  <img src="https://files.catbox.moe/mmk178.png" width="45%">
-  <img src="https://files.catbox.moe/yoqnka.png" width="45%">
+  <img src="https://files.catbox.moe/yrnoch.png" width="48%">
+  <img src="https://files.catbox.moe/vhxv0z.png" width="48%">
+</p>
+
+<p align="center">
+  <img src="https://files.catbox.moe/l0xtqf.png" width="48%">
+  <img src="https://files.catbox.moe/rg6b0s.png" width="48%">
 </p>
 
 <br>
